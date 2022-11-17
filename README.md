@@ -1,8 +1,10 @@
 # Skilvul-Rock-Paper-Scissor
 Rock Paper Scissor Multiplayer
 
-Resolusi : 1080 * 1920
-Link Build : https://drive.google.com/file/d/1GBVDnFpe2MwiKRlvtq53EtaYblnoWXY5/view?usp=share_link
+- Resolusi : 1080 * 1920
+- Link Build : https://drive.google.com/file/d/1GBVDnFpe2MwiKRlvtq53EtaYblnoWXY5/view?usp=share_link
+
+#Project Rock Paper Scissor Dengan Fitur Terlengkap Ada Pada Link GitHub Berikut:
 
 Note :
 - Terkadang room yang telah dibuat oleh salah satu player tidak terlihat. Solusi yang saya ketahui adalah melakukan build ulang.
